@@ -1,1 +1,0 @@
-api_key = 'YOUR DEMO API KEY FROM coingecko.com'
